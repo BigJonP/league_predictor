@@ -1,6 +1,6 @@
 ## league_predictor
 
-The aim to be able to predict the outcome of a League of Legends game before the game actually begins. This will hopefully allow the player to understand his chances of success and help him decide whether he should dodge (leave the game) or not.
+The aim: to predict the outcome of a League of Legends game before the game actually begins. This will hopefully allow the player to understand his chances of success and help him decide whether he should dodge (leave the game) or not.
 
 
 ![Challenger](https://i2.wp.com/i.pinimg.com/originals/90/8f/95/908f95127caf7f739877f9f555807361.png)
